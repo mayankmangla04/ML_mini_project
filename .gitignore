@@ -1,0 +1,34 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS & System files
+.DS_Store
+Thumbs.db
+
+# Raw Image Datasets (Large binary media)
+Driver Drowsiness Dataset (DDD)/
+Driver_Drowsiness_Dataset/
+dataset/
+*.zip
+*.tar.gz
+
+# Local Logs & Scratch Files
+*.log
+scratch/
+.system_generated/
